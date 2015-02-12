@@ -1,0 +1,9 @@
+{
+"meta":
+{"username":"jojello",
+"repositoryName":"jojello/hubpress.io",
+"branch":"master"
+},
+"theme":{
+"name":"Casper"}
+}
